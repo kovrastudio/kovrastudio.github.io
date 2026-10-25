@@ -133,6 +133,32 @@
       font-size: 0.85rem;
     }
 
+    .suite-switcher {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--bg-input);
+      border: 1px solid var(--border);
+      padding: 4px;
+      border-radius: 10px;
+    }
+
+    .suite-link {
+      padding: 6px 12px;
+      border-radius: 7px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      transition: 0.15s ease;
+    }
+
+    .suite-link:hover { color: var(--text); }
+    .suite-link.active {
+      background: var(--emerald-dark);
+      color: #6ee7b7;
+      border: 1px solid rgba(16, 185, 129, 0.45);
+    }
+
     .nav-actions {
       display: flex;
       align-items: center;
@@ -771,10 +797,16 @@
 
   <header>
     <div class="nav-container">
-      <a href="#" class="brand">
+      <a href="index.html" class="brand">
         <div class="brand-mark">K</div>
-        <div>Kovra Studio <span>/ RateShield</span></div>
+        <div>Kovra Studio</div>
       </a>
+
+      <nav class="suite-switcher" aria-label="Kovra Studio Free Tools">
+        <a href="index.html" class="suite-link active">01 • RateShield</a>
+        <a href="proposal.html" class="suite-link">02 • ProposalForge</a>
+      </nav>
+
       <div class="nav-actions">
         <a href="https://kovrastudio.gumroad.com/l/scope-shield" target="_blank" rel="noopener" class="btn-ghost hide-mobile">Free Cheat Sheet ($0+)</a>
         <a href="https://kovrastudio.gumroad.com/l/profit-kit" target="_blank" rel="noopener" class="btn-primary">
@@ -1119,7 +1151,7 @@
   </main>
 
   <footer>
-    <p>© 2026 <strong>Kovra Studio</strong>. Practical Financial &amp; Operational Tools for Independent Operators.</p>
+    <p>© 2026 <strong>Kovra Studio</strong> • <a href="index.html" style="text-decoration:underline;">RateShield Calculator</a> • <a href="proposal.html" style="text-decoration:underline;">ProposalForge Generator</a> • <a href="https://kovrastudio.gumroad.com/" target="_blank" rel="noopener" style="text-decoration:underline;">Store</a></p>
   </footer>
 
   <script>
@@ -1271,5 +1303,5 @@
     calcFees();
     calcScope();
   </script>
-</body>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a500e84daa36b2d1',t:'MTc5MjkyODAxNw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
