@@ -23,9 +23,9 @@ Fast, zero-signup, zero-tracking browser calculators built to help 1-person stud
 Want the full unlocked Excel/Google Sheets engines, editable Word/Google Docs contracts & 3-tier proposals, and copy-paste client email scripts?
 
 - 🎁 **[Free Starter ($0+): 5-Script Scope & Payment Shield PDF](https://kovrastudio.gumroad.com/l/scope-shield)**
-- 🟢 **[System #1 ($29): Solo Operator Profit & Scope Shield Kit](https://kovrastudio.gumroad.com/l/profit-kit)** *(5-Tab Solo CFO `.XLSX` + Client Defense Contract Pack `.DOCX` + 25 Money/Scope Scripts `.PDF`)*
-- 🟣 **[System #2 ($39): Async Proposal, 3-Tier Pricing & Retainer OS](https://kovrastudio.gumroad.com/l/retainer-os)** *(4-Tab MRR & Pipeline `.XLSX` + 1-Page 3-Tier Proposal & Retainer Contract `.DOCX` + 20 No-Call Closing Scripts `.PDF`)*
-- ⭐ **[BEST VALUE — Complete Solo Studio OS Bundle ($49 — Save $19 Instantly)](https://kovrastudio.gumroad.com/l/all-access)** *(Includes BOTH complete systems — 9 unlocked files + 45-minute Master Implementation Roadmap)*
+- 🟢 **[System #1 ($19): Solo Operator Profit & Scope Shield Kit](https://kovrastudio.gumroad.com/l/profit-kit)** *(5-Tab Solo CFO `.XLSX` + Client Defense Contract Pack `.DOCX` + 25 Money/Scope Scripts `.PDF`)*
+- 🟣 **[System #2 ($24): Async Proposal, 3-Tier Pricing & Retainer OS](https://kovrastudio.gumroad.com/l/retainer-os)** *(4-Tab MRR & Pipeline `.XLSX` + 1-Page 3-Tier Proposal & Retainer Contract `.DOCX` + 20 No-Call Closing Scripts `.PDF`)*
+- ⭐ **[BEST VALUE — Complete Solo Studio OS Bundle ($29 — Save $14 Instantly)](https://kovrastudio.gumroad.com/l/all-access)** *(Includes BOTH complete systems — 9 unlocked files + 45-minute Master Implementation Roadmap)*
 
 ---
 
