@@ -1,36 +1,32 @@
-# RateShield — Freelance True Rate, Reverse Fee & Scope Risk Calculator
+# Kovra Studio — Free Client-Side Tools for Solo Freelancers, Devs & Consultants
 
-**Live Web App (100% Free, Zero Signup):** [https://kovrastudio.github.io/](https://kovrastudio.github.io/)
-
-Built by **Kovra Studio**, RateShield is a fast, zero-dependency, client-side utility designed to help independent developers, designers, consultants, and solo agencies price projects for real net profit.
+Fast, zero-signup, zero-tracking browser calculators built to help 1-person studios price profitably after taxes, reverse payment processor fees, and close 3-tier proposals & monthly retainers asynchronously.
 
 ---
 
-## Included Free Calculators
+## 🛠️ Live Free Web Suite (100% Client-Side)
 
-1. **True Hourly, Day Rate & Weekly Sprint Calculator**
-   - Accounts for self-employment tax reserves, software/hardware overhead, vacation weeks, and realistic billable utilization (~55–65%).
-   - Outputs your **Minimum Safe Hourly Floor**, **8h VIP Day Rate**, **Weekly Sprint Rate**, and **Fixed-Price Proposal Anchor**.
+### 1. [RateShield — True Hourly Floor, Reverse Fee & Scope Risk Calculator](https://kovrastudio.github.io/)
+- **True Net Hourly, Day Rate & Weekly Sprint Calculator:** Accounts for self-employment taxes, annual SaaS/hardware overhead, paid time off, and realistic billable utilization (~55–65%).
+- **Reverse Payment Processor Fee Calculator:** Exact gross-up math `(Desired Net + Fixed Fee) / (1 - % Fee)` across **Stripe (Domestic & International FX)**, **PayPal**, **Upwork (10%)**, **Gumroad**, and **Fiverr (20%)**.
+- **Pre-Kickoff Scope Creep Auditor:** 6-point SOW vulnerability checklist + ready-to-copy contract revision cap clause.
 
-2. **Reverse Payment & Marketplace Fee Calculator**
-   - Uses exact reverse-gross math `(Desired Net + Fixed Fee) / (1 - % Fee)` so payment fees never eat your margin.
-   - Instant table for **Stripe (Domestic & International FX)**, **PayPal Commercial**, **Upwork (10%)**, **Gumroad**, and **Fiverr (20%)**.
-
-3. **Pre-Kickoff Scope Creep Risk Auditor**
-   - 6-point SOW vulnerability checklist that estimates unpaid revision drag before kickoff + ready-to-copy revision cap clause.
-
----
-
-## Upgrade: The Solo Operator Profit & Scope Kit
-
-Need a complete financial & contractual operating system beyond the browser calculator?
-
-👉 **[Download The Solo Operator Profit & Scope Kit ($29)](https://kovrastudio.gumroad.com/l/profit-kit)**
-
-- **`01_Kovra_Solo_Profit_CFO_System.xlsx`** — 5-Tab Automated Excel & Google Sheets CFO Dashboard, Income/Tax Ledger & SaaS Burn Tracker.
-- **`02_Kovra_Client_Defense_Contract_Pack.docx`** — Editable Independent Services Agreement (50% deposit lock, IP holds until 100% payment clears, late fees & ghosting protection) + SOW + 1-Page Paid Change-Order Form.
-- **`03_Kovra_25_Client_Money_Scripts.pdf`** — 25 copy-paste email & Slack scripts for stopping scope creep, raising rates, and collecting overdue invoices.
+### 2. [ProposalForge — 3-Tier Anchor Proposal & Retainer Email Generator](https://kovrastudio.github.io/proposal.html)
+- **Psychological 3-Tier Pricing Menu (`1.0x` / `1.65x` / `2.60x`):** Turns flat single-price quotes into anchored 3-option packages that steer 60–70% of buyers into your target Growth tier.
+- **22% Non-Rollover Monthly Retainer Calculator:** Automatically calculates your post-launch recurring care & optimization retainer pitch.
+- **1-Click No-Call Proposal Email:** Generates a clean, ready-to-send async proposal email — replacing 45-minute Zoom discovery calls.
 
 ---
 
-© Kovra Studio — [Website](https://kovrastudio.github.io/) • [Store](https://kovrastudio.gumroad.com/)
+## 📦 Complete Studio Templates & Operating Systems
+
+Want the full unlocked Excel/Google Sheets engines, editable Word/Google Docs contracts & 3-tier proposals, and copy-paste client email scripts?
+
+- 🎁 **[Free Starter ($0+): 5-Script Scope & Payment Shield PDF](https://kovrastudio.gumroad.com/l/scope-shield)**
+- 🟢 **[System #1 ($29): Solo Operator Profit & Scope Shield Kit](https://kovrastudio.gumroad.com/l/profit-kit)** *(5-Tab Solo CFO `.XLSX` + Client Defense Contract Pack `.DOCX` + 25 Money/Scope Scripts `.PDF`)*
+- 🟣 **[System #2 ($39): Async Proposal, 3-Tier Pricing & Retainer OS](https://kovrastudio.gumroad.com/l/retainer-os)** *(4-Tab MRR & Pipeline `.XLSX` + 1-Page 3-Tier Proposal & Retainer Contract `.DOCX` + 20 No-Call Closing Scripts `.PDF`)*
+- ⭐ **[BEST VALUE — Complete Solo Studio OS Bundle ($49 — Save $19 Instantly)](https://kovrastudio.gumroad.com/l/all-access)** *(Includes BOTH complete systems — 9 unlocked files + 45-minute Master Implementation Roadmap)*
+
+---
+
+© 2026 **Kovra Studio** • [RateShield](https://kovrastudio.github.io/) • [ProposalForge](https://kovrastudio.github.io/proposal.html) • [DEV.to](https://dev.to/kovrastudio) • [Medium](https://medium.com/@kovrastudio) • [Store](https://kovrastudio.gumroad.com/)
