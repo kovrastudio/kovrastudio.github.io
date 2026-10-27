@@ -1,20 +1,20 @@
 # Kovra Studio — Free Client-Side Tools for Solo Freelancers, Devs & Consultants
 
-Fast, zero-signup, zero-tracking browser calculators built to help 1-person studios price profitably after taxes, reverse payment processor fees, and close 3-tier proposals & monthly retainers asynchronously.
+Fast, zero-signup browser calculators for 1-person studios to model pricing, account for payment processor fees, and prepare three-tier proposals and monthly retainer options asynchronously.
 
 ---
 
 ## 🛠️ Live Free Web Suite (100% Client-Side)
 
 ### 1. [RateShield — True Hourly Floor, Reverse Fee & Scope Risk Calculator](https://kovrastudio.github.io/)
-- **True Net Hourly, Day Rate & Weekly Sprint Calculator:** Accounts for self-employment taxes, annual SaaS/hardware overhead, paid time off, and realistic billable utilization (~55–65%).
+- **True Net Hourly, Day Rate & Weekly Sprint Calculator:** Models self-employment tax reserves, annual SaaS/hardware overhead, paid time off, and a user-set billable-utilization assumption.
 - **Reverse Payment Processor Fee Calculator:** Exact gross-up math `(Desired Net + Fixed Fee) / (1 - % Fee)` across **Stripe (Domestic & International FX)**, **PayPal**, **Upwork (10%)**, **Gumroad**, and **Fiverr (20%)**.
 - **Pre-Kickoff Scope Creep Auditor:** 6-point SOW vulnerability checklist + ready-to-copy contract revision cap clause.
 
 ### 2. [ProposalForge — 3-Tier Anchor Proposal & Retainer Email Generator](https://kovrastudio.github.io/proposal.html)
-- **Psychological 3-Tier Pricing Menu (`1.0x` / `1.65x` / `2.60x`):** Turns flat single-price quotes into anchored 3-option packages that steer 60–70% of buyers into your target Growth tier.
+- **Three-Tier Proposal Pricing Menu (`1.0x` / `1.65x` / `2.60x`):** Presents Core, Growth and Turnkey options, with the Growth tier highlighted; results depend on the project and client.
 - **22% Non-Rollover Monthly Retainer Calculator:** Automatically calculates your post-launch recurring care & optimization retainer pitch.
-- **1-Click No-Call Proposal Email:** Generates a clean, ready-to-send async proposal email — replacing 45-minute Zoom discovery calls.
+- **1-Click No-Call Proposal Email:** Generates an editable async proposal draft to help keep project details and decisions in writing.
 
 ---
 
